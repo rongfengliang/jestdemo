@@ -13,7 +13,7 @@ describe("sum test suit", () => {
         let users =sum.addUser("dalong");
         expect(users).toContain("dalong");
      })
-    it("demo"=>{
+    it("demo",()=>{
  
       console.log("this is a demo")
     })
