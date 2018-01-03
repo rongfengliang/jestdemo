@@ -1,0 +1,2 @@
+{"D:\\jestdemo\\sum.js": {"path":"D:\\jestdemo\\sum.js","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":19}},"1":{"start":{"line":3,"column":4},"end":{"line":3,"column":15}}},"fnMap":{"0":{"name":"sum","decl":{"start":{"line":2,"column":9},"end":{"line":2,"column":12}},"loc":{"start":{"line":2,"column":17},"end":{"line":4,"column":1}},"line":2}},"branchMap":{},"s":{"0":1,"1":2},"f":{"0":2},"b":{},"_coverageSchema":"332fd63041d2c1bcb487cc26dd0d5f7d97098a6c","hash":"59858b3da02a3ab44aef97346ee4ffe5a3237500"}
+}
